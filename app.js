@@ -24,8 +24,3 @@ function remove() {
         db.close();
     });
 }
-
-
-
-
-
